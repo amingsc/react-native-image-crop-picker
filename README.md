@@ -1,3 +1,8 @@
+# WHAT FOR THIS FORK?
+
+Fix issue "incorrect path with trimmed videos on IOS, it is not returning the correct path that I trimmed by from the phone gallery (ios) #1329"
+https://github.com/ivpusic/react-native-image-crop-picker/issues/1329#issuecomment-698263758
+
 # react-native-image-crop-picker
 
 [![Backers on Open Collective](https://opencollective.com/react-native-image-crop-picker/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-image-crop-picker/sponsors/badge.svg)](#sponsors)
